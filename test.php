@@ -1,3 +1,3 @@
 <?php
-echo "Ini adalah test 123";
+echo "Ini adalah test";
 ?>
